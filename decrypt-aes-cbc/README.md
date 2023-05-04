@@ -1,0 +1,1 @@
+- Realiza a decriptação de uma mensagem encriptada com AES (modo CBC)
