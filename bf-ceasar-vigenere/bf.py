@@ -11,7 +11,7 @@ def vigenere():
     decrypted_message = ''
     results = []
     while decrypted_message not in bf_list: 
-        for combination in itertools.product('abcdefghijklmnopqrstuvwyz', repeat = 3):
+        for combination in itertools.product('abcdefghijklmnopqrstuvwxyz', repeat = 3):
             decrypted_message = ''
             combination_str = ''.join(combination)
             key = generatekey.generate_key(encrypted_message, combination_str)
@@ -31,7 +31,7 @@ def vigenere():
 
 def caesar():
     decrypted_message = ''
-    alphabet = 'abcdefghijklmnopqrstuvwyz'
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
     key = 1
     while decrypted_message not in bf_list:
         decrypted_message = ''
