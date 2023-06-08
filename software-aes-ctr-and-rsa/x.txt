@@ -1,0 +1,7 @@
+Os golpes bem-sucedidos raramente elucidam o que está prestes a acontecer, pois os hackers contam com táticas enganosas de engenharia social. Isso porque a ideia é fazer o usuário pensar que está executando algo legítimo, mas, na verdade, 
+não está. 
+
+Uma maneira de os atacantes realizarem isso é por meio da ofuscação.
+
+Ao ocultar a verdadeira intenção do e-mail encaminhado, pode ser mais provável que um verificador de segurança “pense” que ele está limpo e que um usuário abrirá e interagirá no conteúdo do e-mail. E uma forma de fazer isso é usar algo esperado para atrair a atenção, como uma imagem, e ocultar o conteúdo malicioso por trás dela.
+Os pesquisadores da Check Point Research (CPR), divisão de inteligência de ameaças da Check Point Software Technologies Ltd. explicaram como os hackers ocultam os links maliciosos nas imagens para redirecionar os usuários para sites de phishing.
